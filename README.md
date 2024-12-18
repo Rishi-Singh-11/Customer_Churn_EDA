@@ -60,10 +60,10 @@ This project identifies key factors driving customer churn and offers actionable
 
 ---
 
-### **How to Use**
-1. Clone this repository.  
-2. Run the provided Jupyter Notebook to explore the dataset and replicate the analysis.  
-3. Use the insights and recommendations for churn reduction strategies.  
+### How to Use
+1. Clone this repository.
+2. Open the [`Customer_Churn_Prediction_EDA.ipynb`](Customer_Churn_Prediction_EDA.ipynb) file to explore the dataset and replicate the analysis.
+3. Use the insights and recommendations for churn reduction strategies.
 
 ---
 
