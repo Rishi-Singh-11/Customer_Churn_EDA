@@ -6,42 +6,44 @@ To analyze customer attributes such as demographics, service usage, billing deta
 <br>
 ### Key Findings
 #### Demographics
-Gender: Churn rates are balanced, indicating no significant influence.
-Senior Citizens: Older customers churn more frequently.
-Partner and Dependents: Single customers without partners or dependents are more likely to churn.
+- Gender: Churn rates are balanced, indicating no significant influence.
+- Senior Citizens: Older customers churn more frequently.
+- Partner and Dependents: Single customers without partners or dependents are more likely to churn.
 Service Usage
-Phone Services: Widely used, but customers without multiple lines churn slightly more.
-Internet Services: Fiber optic users have the highest churn rates, likely due to pricing or quality concerns.
+- Phone Services: Widely used, but customers without multiple lines churn slightly more.
+- Internet Services: Fiber optic users have the highest churn rates, likely due to pricing or quality concerns.
+<br>
 Add-On Services
-Underutilized Services: Many customers lack subscriptions to online security, backup, device protection, or tech support, leading to higher churn.
-Streaming Services: Customers with streaming services are less likely to churn, indicating added value.
+- Underutilized Services: Many customers lack subscriptions to online security, backup, device protection, or tech support, leading to higher churn.
+- Streaming Services: Customers with streaming services are less likely to churn, indicating added value.
 Contracts and Billing
-Contracts: Month-to-month contracts are the most common but have the highest churn rates.
-Payment Methods: Customers paying via electronic checks churn the most.
-Paperless Billing: Customers on paperless billing churn more, potentially due to dissatisfaction with digital-only interactions.
+- Contracts: Month-to-month contracts are the most common but have the highest churn rates.
+- Payment Methods: Customers paying via electronic checks churn the most.
+- Paperless Billing: Customers on paperless billing churn more, potentially due to dissatisfaction with digital-only interactions.
 Billing and Tenure
-Monthly Charges: Customers paying above the average monthly charge of USD 64.78 churn more frequently.
-Tenure: Newer customers (1–12 months) churn the most, emphasizing the importance of early engagement.
-Recommendations
+- Monthly Charges: Customers paying above the average monthly charge of USD 64.78 churn more frequently.
+- Tenure: Newer customers (1–12 months) churn the most, emphasizing the importance of early engagement.
+<br>
+## Recommendations
 Target High-Risk Groups
 <br>
-Tailor retention strategies for senior citizens and single customers.
-Provide loyalty discounts or perks to new customers during their first year.
+Tailor retention strategies for senior citizens and single customers.<br>
+Provide loyalty discounts or perks to new customers during their first year.<br>
 Promote Add-On Services
 <br>
-Create bundled packages with internet services, security, backup, and streaming to increase value.
-Use targeted campaigns to upsell underutilized services.
+Create bundled packages with internet services, security, backup, and streaming to increase value.<br>
+Use targeted campaigns to upsell underutilized services.<br>
 Optimize Pricing and Quality
 <br>
-Address pricing and service quality issues, particularly for fiber optic users.
-Offer competitive plans for high-paying customers.
+Address pricing and service quality issues, particularly for fiber optic users.<br>
+Offer competitive plans for high-paying customers.<br>
 Encourage Long-Term Commitments
 <br>
-Provide incentives for customers to switch from month-to-month plans to 1- or 2-year contracts.
+Provide incentives for customers to switch from month-to-month plans to 1- or 2-year contracts.<br>
 Improve Billing Experience
 <br>
-Encourage automated payment methods like credit cards or bank transfers over electronic checks.
-Enhance the user experience for paperless billing to reduce churn.
+Encourage automated payment methods like credit cards or bank transfers over electronic checks.<br>
+Enhance the user experience for paperless billing to reduce churn.<br>
 Focus on Early Engagement
 <br>
 Build loyalty by delivering a smooth onboarding process and exceptional service during the first 12 months.
@@ -49,19 +51,22 @@ Build loyalty by delivering a smooth onboarding process and exceptional service 
 ## Conclusion
 This project identifies key factors driving customer churn and offers actionable insights to improve retention. By implementing the recommendations, the company can reduce churn, enhance customer satisfaction, and drive growth.
 <br>
-Technologies Used
-Python (Pandas, Matplotlib, Seaborn)
-Jupyter Notebook for EDA
-Dataset: Telecommunications customer data
-How to Use
-Clone this repository.
-Run the provided Jupyter Notebook to explore the dataset and replicate the analysis.
-Use the insights and recommendations for churn reduction strategies.
-Author
-Rishi Singh
-LinkedIn: www.linkedin.com/in/ds-rishisingh
+### Technologies Used
+Python (Pandas, Matplotlib, Seaborn)<br>
+Jupyter Notebook for EDA<br>
+Dataset: Telecommunications customer data<br>
+<br>
+### How to Use
+Clone this repository.<br>
+Run the provided Jupyter Notebook to explore the dataset and replicate the analysis.<br>
+Use the insights and recommendations for churn reduction strategies.<br>
+<br>
+## Author
+Rishi Singh<br>
+LinkedIn: www.linkedin.com/in/ds-rishisingh<br>
 GitHub: https://github.com/Rishi-
 Singh-11
+<br>
 
 This README file can be customized further by adding visualizations or links to additional documentation if needed!
 
