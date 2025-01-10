@@ -1,3 +1,6 @@
+![Customer Churn Analysis (1)](https://github.com/user-attachments/assets/8e0ee494-10aa-4eb1-aad3-ee9feb72b18f)
+
+
 # **Customer Churn Analysis for a Telecommunications Company**
 
 This project focuses on understanding the factors influencing customer churn using exploratory data analysis (EDA). The insights gained can help the company implement strategies to improve customer retention.
